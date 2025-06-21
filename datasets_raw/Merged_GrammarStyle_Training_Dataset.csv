@@ -1,0 +1,2443 @@
+Category,input_text,target_text
+Style,The boy was sad and went home. (sample 13),"With a heavy heart, the boy turned away and walked home in silence. (sample 13)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 25),"The project we discussed yesterday, which needed several approvals, was started. (sample 25)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he can to swim.,He can swim.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,me like chocolate.,I like chocolate.
+grammar,he go to school every days.,He goes to school every day.
+Style,The boy was sad and went home. (sample 1),"With a heavy heart, the boy turned away and walked home in silence. (sample 1)"
+Grammar,i has a pen.,I have a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,we was happy.,We were happy.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,She don't like go to school on Mondays. (sample 5),She doesn't like going to school on Mondays. (sample 5)
+Style,The boy was sad and went home. (sample 70),"With a heavy heart, the boy turned away and walked home in silence. (sample 70)"
+grammar,she don't like fish.,She doesn't like fish.
+Emotion,I can't help you. (sample 57),"I’m really sorry, but I’m unable to help you right now. (sample 57)"
+grammar,he go to school every days.,He goes to school every day.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,you was a pen.,You were a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 67),"The project we discussed yesterday, which needed several approvals, was started. (sample 67)"
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i am student.,I am a student.
+grammar,he can to swim.,He can swim.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i am student.,I am a student.
+Grammar,She don't like go to school on Mondays. (sample 59),She doesn't like going to school on Mondays. (sample 59)
+Grammar/Style,"Due to the fact that the project was delayed, the team had to work overtime.",The project delay caused the team to work overtime.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he can to swim.,He can swim.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,we have went a pen.,We have gone a pen.
+Emotion,I can't help you. (sample 14),"I’m really sorry, but I’m unable to help you right now. (sample 14)"
+Grammar,she were a pen.,She was a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i am student.,I am a student.
+advanced_enhancement,We’re done for the day.,That concludes our agenda for today.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,he can to swim.,He can swim.
+Grammar,She don't like go to school on Mondays. (sample 97),She doesn't like going to school on Mondays. (sample 97)
+Grammar,you was a pen.,You were a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 56),"The project we discussed yesterday, which needed several approvals, was started. (sample 56)"
+Grammar,john and me a pen.,John and I a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,you was a pen.,You were a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,he can to swim.,He can swim.
+Emotion,I can't help you. (sample 69),"I’m really sorry, but I’m unable to help you right now. (sample 69)"
+grammar,he can to swim.,He can swim.
+grammar,we was happy.,We were happy.
+Grammar,he go a pen.,He goes a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,this book very interesting.,This book is very interesting.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 99),"The project we discussed yesterday, which needed several approvals, was started. (sample 99)"
+Grammar,he go a pen.,He goes a pen.
+grammar,i am student.,I am a student.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,me like chocolate.,I like chocolate.
+Emotion,I can't help you. (sample 51),"I’m really sorry, but I’m unable to help you right now. (sample 51)"
+grammar,they has two dog.,They have two dogs.
+grammar,we was happy.,We were happy.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,she were a pen.,She was a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,she were a pen.,She was a pen.
+Grammar,She don't like go to school on Mondays. (sample 74),She doesn't like going to school on Mondays. (sample 74)
+Grammar,you was a pen.,You were a pen.
+Grammar,i going to market.,I am going to the market.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i has a pen.,I have a pen.
+Emotion,I can't help you. (sample 36),"I’m really sorry, but I’m unable to help you right now. (sample 36)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,they has two dog.,They have two dogs.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,we was happy.,We were happy.
+Emotion,I can't help you. (sample 95),"I’m really sorry, but I’m unable to help you right now. (sample 95)"
+Grammar,you was a pen.,You were a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 84),"The project we discussed yesterday, which needed several approvals, was started. (sample 84)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 42),"The project we discussed yesterday, which needed several approvals, was started. (sample 42)"
+Grammar,he go a pen.,He goes a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he go to school every days.,He goes to school every day.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 1),"The project we discussed yesterday, which needed several approvals, was started. (sample 1)"
+Grammar,she were a pen.,She was a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,i am student.,I am a student.
+Grammar,i going to a pen.,I am going to a pen.
+Style,The boy was sad and went home. (sample 80),"With a heavy heart, the boy turned away and walked home in silence. (sample 80)"
+grammar,he go to school every days.,He goes to school every day.
+grammar,we was happy.,We were happy.
+Grammar,she were a pen.,She was a pen.
+Grammar,i has a pen.,I have a pen.
+Emotion,I can't help you. (sample 38),"I’m really sorry, but I’m unable to help you right now. (sample 38)"
+grammar,i am student.,I am a student.
+Grammar,they is a pen.,They are a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,they has two dog.,They have two dogs.
+Emotion,I can't help you. (sample 7),"I’m really sorry, but I’m unable to help you right now. (sample 7)"
+grammar,they has two dog.,They have two dogs.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,we was happy.,We were happy.
+Grammar,you was a pen.,You were a pen.
+Grammar,She don't like go to school on Mondays. (sample 35),She doesn't like going to school on Mondays. (sample 35)
+Style,The boy was sad and went home. (sample 68),"With a heavy heart, the boy turned away and walked home in silence. (sample 68)"
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,She don't like go to school on Mondays. (sample 44),She doesn't like going to school on Mondays. (sample 44)
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he can to swim.,He can swim.
+grammar,we was happy.,We were happy.
+grammar,he can to swim.,He can swim.
+grammar,me like chocolate.,I like chocolate.
+Emotion,I can't help you. (sample 17),"I’m really sorry, but I’m unable to help you right now. (sample 17)"
+Style,The boy was sad and went home. (sample 46),"With a heavy heart, the boy turned away and walked home in silence. (sample 46)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+Style,The boy was sad and went home. (sample 55),"With a heavy heart, the boy turned away and walked home in silence. (sample 55)"
+grammar,we was happy.,We were happy.
+grammar,i am student.,I am a student.
+Grammar,i has a pen.,I have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,me like chocolate.,I like chocolate.
+grammar,we was happy.,We were happy.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Emotion,I can't help you. (sample 81),"I’m really sorry, but I’m unable to help you right now. (sample 81)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,they is a pen.,They are a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,we was happy.,We were happy.
+Grammar,you was a pen.,You were a pen.
+Grammar,you was a pen.,You were a pen.
+Style,The boy was sad and went home. (sample 69),"With a heavy heart, the boy turned away and walked home in silence. (sample 69)"
+Grammar,She don't like go to school on Mondays. (sample 27),She doesn't like going to school on Mondays. (sample 27)
+Grammar,he go a pen.,He goes a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,we was happy.,We were happy.
+Grammar,they is a pen.,They are a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,i am student.,I am a student.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,he go to school every days.,He goes to school every day.
+Emotion,I can't help you. (sample 89),"I’m really sorry, but I’m unable to help you right now. (sample 89)"
+Grammar,She don't like go to school on Mondays. (sample 24),She doesn't like going to school on Mondays. (sample 24)
+grammar,i am student.,I am a student.
+grammar,he can to swim.,He can swim.
+grammar,i am student.,I am a student.
+grammar,i am student.,I am a student.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 83),"The project we discussed yesterday, which needed several approvals, was started. (sample 83)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he go to school every days.,He goes to school every day.
+grammar,i am student.,I am a student.
+Grammar,She don't like go to school on Mondays. (sample 32),She doesn't like going to school on Mondays. (sample 32)
+Grammar,she were a pen.,She was a pen.
+Style,The boy was sad and went home. (sample 76),"With a heavy heart, the boy turned away and walked home in silence. (sample 76)"
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Style,The boy was sad and went home. (sample 48),"With a heavy heart, the boy turned away and walked home in silence. (sample 48)"
+Grammar,she were a pen.,She was a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,you was a pen.,You were a pen.
+Style,The boy was sad and went home. (sample 86),"With a heavy heart, the boy turned away and walked home in silence. (sample 86)"
+grammar,she don't like fish.,She doesn't like fish.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,he go to school every days.,He goes to school every day.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i has a pen.,I have a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,you was a pen.,You were a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 26),"The project we discussed yesterday, which needed several approvals, was started. (sample 26)"
+grammar,i am student.,I am a student.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he go to school every days.,He goes to school every day.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,She don't like go to school on Mondays. (sample 52),She doesn't like going to school on Mondays. (sample 52)
+Style,The boy was sad and went home. (sample 71),"With a heavy heart, the boy turned away and walked home in silence. (sample 71)"
+Emotion,I can't help you. (sample 52),"I’m really sorry, but I’m unable to help you right now. (sample 52)"
+Grammar,john and me a pen.,John and I a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,john and me a pen.,John and I a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 76),"The project we discussed yesterday, which needed several approvals, was started. (sample 76)"
+grammar,this book very interesting.,This book is very interesting.
+grammar,we was happy.,We were happy.
+grammar,they has two dog.,They have two dogs.
+Grammar,i has a pen.,I have a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 54),"The project we discussed yesterday, which needed several approvals, was started. (sample 54)"
+Grammar,he go a pen.,He goes a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i has a pen.,I have a pen.
+grammar,we was happy.,We were happy.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Style,The boy was sad and went home. (sample 31),"With a heavy heart, the boy turned away and walked home in silence. (sample 31)"
+Grammar,i going to a pen.,I am going to a pen.
+Emotion,I can't help you. (sample 49),"I’m really sorry, but I’m unable to help you right now. (sample 49)"
+Grammar,you was a pen.,You were a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,She don't like go to school on Mondays. (sample 20),She doesn't like going to school on Mondays. (sample 20)
+grammar,he can to swim.,He can swim.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,me like chocolate.,I like chocolate.
+Grammar,they is a pen.,They are a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,She don't like go to school on Mondays. (sample 46),She doesn't like going to school on Mondays. (sample 46)
+grammar,we was happy.,We were happy.
+Grammar,She don't like go to school on Mondays. (sample 47),She doesn't like going to school on Mondays. (sample 47)
+Grammar,i has a pen.,I have a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Emotion,I can't help you. (sample 59),"I’m really sorry, but I’m unable to help you right now. (sample 59)"
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he go a pen.,He goes a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 78),"The project we discussed yesterday, which needed several approvals, was started. (sample 78)"
+Emotion,I can't help you. (sample 2),"I’m really sorry, but I’m unable to help you right now. (sample 2)"
+Grammar,she were a pen.,She was a pen.
+Grammar,She don't like go to school on Mondays. (sample 45),She doesn't like going to school on Mondays. (sample 45)
+Emotion,I can't help you. (sample 46),"I’m really sorry, but I’m unable to help you right now. (sample 46)"
+grammar,he can to swim.,He can swim.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 7),"The project we discussed yesterday, which needed several approvals, was started. (sample 7)"
+Grammar,She don't like go to school on Mondays. (sample 93),She doesn't like going to school on Mondays. (sample 93)
+Grammar,he go a pen.,He goes a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i am student.,I am a student.
+grammar,this book very interesting.,This book is very interesting.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i am student.,I am a student.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,he go a pen.,He goes a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 18),"The project we discussed yesterday, which needed several approvals, was started. (sample 18)"
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,she were a pen.,She was a pen.
+Emotion,I can't help you. (sample 55),"I’m really sorry, but I’m unable to help you right now. (sample 55)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 66),"The project we discussed yesterday, which needed several approvals, was started. (sample 66)"
+Grammar,they is a pen.,They are a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Emotion,I can't help you. (sample 94),"I’m really sorry, but I’m unable to help you right now. (sample 94)"
+grammar,i am student.,I am a student.
+grammar,i am student.,I am a student.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,we was happy.,We were happy.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,he go a pen.,He goes a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,i has a pen.,I have a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,She don't like go to school on Mondays. (sample 16),She doesn't like going to school on Mondays. (sample 16)
+Grammar,john and me a pen.,John and I a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,She don't like go to school on Mondays. (sample 48),She doesn't like going to school on Mondays. (sample 48)
+Grammar,we have went a pen.,We have gone a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,they is a pen.,They are a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,we have went a pen.,We have gone a pen.
+Emotion,I can't help you. (sample 28),"I’m really sorry, but I’m unable to help you right now. (sample 28)"
+grammar,i am student.,I am a student.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he go a pen.,He goes a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,they has two dog.,They have two dogs.
+grammar,he go to school every days.,He goes to school every day.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,they is a pen.,They are a pen.
+grammar,i am student.,I am a student.
+grammar,he go to school every days.,He goes to school every day.
+grammar,we was happy.,We were happy.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,she were a pen.,She was a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,they is happy today.,They are happy today.
+Grammar,i has a pen.,I have a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+Grammar,She don't like go to school on Mondays. (sample 49),She doesn't like going to school on Mondays. (sample 49)
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Emotion,I can't help you. (sample 84),"I’m really sorry, but I’m unable to help you right now. (sample 84)"
+grammar,she don't like fish.,She doesn't like fish.
+grammar,i am student.,I am a student.
+grammar,we was happy.,We were happy.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,this book very interesting.,This book is very interesting.
+advanced_enhancement,"He don’t likes going out when it rains, so he stay indoor.","He doesn’t like going out when it rains, so he stays indoors."
+grammar,me like chocolate.,I like chocolate.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,she were a pen.,She was a pen.
+grammar,i am student.,I am a student.
+Grammar,they is a pen.,They are a pen.
+Style,The boy was sad and went home. (sample 57),"With a heavy heart, the boy turned away and walked home in silence. (sample 57)"
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,She don't like go to school on Mondays. (sample 62),She doesn't like going to school on Mondays. (sample 62)
+Grammar,you was a pen.,You were a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,they is a pen.,They are a pen.
+Grammar,She don't like go to school on Mondays. (sample 100),She doesn't like going to school on Mondays. (sample 100)
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i am student.,I am a student.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 22),"The project we discussed yesterday, which needed several approvals, was started. (sample 22)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 98),"The project we discussed yesterday, which needed several approvals, was started. (sample 98)"
+Grammar/Style,I don't care what you think.,"I understand your point, but I feel differently."
+Grammar,you was a pen.,You were a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,he can to swim.,He can swim.
+grammar,we was happy.,We were happy.
+Grammar,he go a pen.,He goes a pen.
+Grammar,you was a pen.,You were a pen.
+advanced_enhancement,The weather was bad so we stayed home.,"Due to inclement weather, we opted to remain indoors."
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,she were a pen.,She was a pen.
+grammar,we was happy.,We were happy.
+grammar,me like chocolate.,I like chocolate.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i has a pen.,I have a pen.
+Grammar,She don't like go to school on Mondays. (sample 76),She doesn't like going to school on Mondays. (sample 76)
+grammar,i am student.,I am a student.
+grammar,he can to swim.,He can swim.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 62),"The project we discussed yesterday, which needed several approvals, was started. (sample 62)"
+Grammar,he go a pen.,He goes a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 12),"The project we discussed yesterday, which needed several approvals, was started. (sample 12)"
+grammar,he can to swim.,He can swim.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 18),She doesn't like going to school on Mondays. (sample 18)
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,he can to swim.,He can swim.
+Grammar,they is a pen.,They are a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 28),"The project we discussed yesterday, which needed several approvals, was started. (sample 28)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,we was happy.,We were happy.
+grammar,me like chocolate.,I like chocolate.
+Grammar,he go a pen.,He goes a pen.
+grammar,i am student.,I am a student.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,they is a pen.,They are a pen.
+grammar,they has two dog.,They have two dogs.
+Style,The boy was sad and went home. (sample 12),"With a heavy heart, the boy turned away and walked home in silence. (sample 12)"
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,they is a pen.,They are a pen.
+Emotion,I can't help you. (sample 1),"I’m really sorry, but I’m unable to help you right now. (sample 1)"
+Grammar,She don't like go to school on Mondays. (sample 64),She doesn't like going to school on Mondays. (sample 64)
+Emotion,I can't help you. (sample 78),"I’m really sorry, but I’m unable to help you right now. (sample 78)"
+grammar,we was happy.,We were happy.
+grammar,me like chocolate.,I like chocolate.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 71),She doesn't like going to school on Mondays. (sample 71)
+Grammar,they is a pen.,They are a pen.
+grammar,we was happy.,We were happy.
+Grammar,i has a pen.,I have a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 81),She doesn't like going to school on Mondays. (sample 81)
+Style,The boy was sad and went home. (sample 21),"With a heavy heart, the boy turned away and walked home in silence. (sample 21)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,she were a pen.,She was a pen.
+advanced_enhancement,Sorry I was late. Things happened.,I sincerely apologize for being late. Unexpected issues arose and I truly regret the delay.
+grammar,me like chocolate.,I like chocolate.
+Grammar,they is a pen.,They are a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 41),She doesn't like going to school on Mondays. (sample 41)
+Grammar,they is a pen.,They are a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+Grammar,they is a pen.,They are a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 90),"The project we discussed yesterday, which needed several approvals, was started. (sample 90)"
+grammar,we was happy.,We were happy.
+grammar,they has two dog.,They have two dogs.
+grammar,me like chocolate.,I like chocolate.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,we was happy.,We were happy.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,we was happy.,We were happy.
+grammar,me like chocolate.,I like chocolate.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he can to swim.,He can swim.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,you was a pen.,You were a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,they has two dog.,They have two dogs.
+Style,The boy was sad and went home. (sample 23),"With a heavy heart, the boy turned away and walked home in silence. (sample 23)"
+grammar,me like chocolate.,I like chocolate.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Style,The boy was sad and went home. (sample 84),"With a heavy heart, the boy turned away and walked home in silence. (sample 84)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he can to swim.,He can swim.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,he can to swim.,He can swim.
+Emotion,I can't help you. (sample 61),"I’m really sorry, but I’m unable to help you right now. (sample 61)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,john and me a pen.,John and I a pen.
+Emotion,I can't help you. (sample 63),"I’m really sorry, but I’m unable to help you right now. (sample 63)"
+grammar,this book very interesting.,This book is very interesting.
+grammar,they has two dog.,They have two dogs.
+grammar,i am student.,I am a student.
+Grammar,they is a pen.,They are a pen.
+grammar,we was happy.,We were happy.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,they is a pen.,They are a pen.
+Emotion,I can't help you. (sample 16),"I’m really sorry, but I’m unable to help you right now. (sample 16)"
+grammar,they has two dog.,They have two dogs.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,we was happy.,We were happy.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,john and me a pen.,John and I a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 81),"The project we discussed yesterday, which needed several approvals, was started. (sample 81)"
+grammar,i am student.,I am a student.
+Style,The boy was sad and went home. (sample 7),"With a heavy heart, the boy turned away and walked home in silence. (sample 7)"
+Grammar,they is a pen.,They are a pen.
+grammar,i am student.,I am a student.
+Grammar,they is a pen.,They are a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 8),"The project we discussed yesterday, which needed several approvals, was started. (sample 8)"
+Grammar,i has a pen.,I have a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i am student.,I am a student.
+Grammar,he go a pen.,He goes a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Emotion,I can't help you. (sample 32),"I’m really sorry, but I’m unable to help you right now. (sample 32)"
+Grammar,they is a pen.,They are a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i am student.,I am a student.
+Grammar,you was a pen.,You were a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar/Style,He go to school every day.,He goes to school every day.
+grammar,he can to swim.,He can swim.
+Grammar,i has a pen.,I have a pen.
+Style,The boy was sad and went home. (sample 77),"With a heavy heart, the boy turned away and walked home in silence. (sample 77)"
+Grammar,he go a pen.,He goes a pen.
+grammar,this book very interesting.,This book is very interesting.
+Emotion,I can't help you. (sample 60),"I’m really sorry, but I’m unable to help you right now. (sample 60)"
+Emotion,I can't help you. (sample 40),"I’m really sorry, but I’m unable to help you right now. (sample 40)"
+Grammar,he go a pen.,He goes a pen.
+grammar,he can to swim.,He can swim.
+Style,The boy was sad and went home. (sample 61),"With a heavy heart, the boy turned away and walked home in silence. (sample 61)"
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,we have went a pen.,We have gone a pen.
+Emotion,I can't help you. (sample 99),"I’m really sorry, but I’m unable to help you right now. (sample 99)"
+Grammar,he go a pen.,He goes a pen.
+Emotion,I can't help you. (sample 83),"I’m really sorry, but I’m unable to help you right now. (sample 83)"
+grammar,they has two dog.,They have two dogs.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,this book very interesting.,This book is very interesting.
+Emotion,I can't help you. (sample 62),"I’m really sorry, but I’m unable to help you right now. (sample 62)"
+advanced_enhancement,"That’s your problem, not mine.","I understand that this is frustrating, and I truly hope you’re able to find a way through it."
+Grammar,he go a pen.,He goes a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 5),"The project we discussed yesterday, which needed several approvals, was started. (sample 5)"
+Grammar,She don't like go to school on Mondays. (sample 38),She doesn't like going to school on Mondays. (sample 38)
+Grammar,we have went a pen.,We have gone a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,they is a pen.,They are a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,She don't like go to school on Mondays. (sample 8),She doesn't like going to school on Mondays. (sample 8)
+grammar,he can to swim.,He can swim.
+grammar,me like chocolate.,I like chocolate.
+grammar,me like chocolate.,I like chocolate.
+grammar,they has two dog.,They have two dogs.
+grammar,me like chocolate.,I like chocolate.
+grammar,they has two dog.,They have two dogs.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i has a pen.,I have a pen.
+advanced_enhancement,I can't help you with this.,"I’m really sorry, but I’m unable to help you with this at the moment. I hope we can find a solution soon."
+Grammar,you was a pen.,You were a pen.
+Emotion,I can't help you. (sample 100),"I’m really sorry, but I’m unable to help you right now. (sample 100)"
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,She don't like go to school on Mondays. (sample 75),She doesn't like going to school on Mondays. (sample 75)
+grammar,they has two dog.,They have two dogs.
+Grammar,john and me a pen.,John and I a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 72),"The project we discussed yesterday, which needed several approvals, was started. (sample 72)"
+Style,The boy was sad and went home. (sample 52),"With a heavy heart, the boy turned away and walked home in silence. (sample 52)"
+grammar,he can to swim.,He can swim.
+Grammar,She don't like go to school on Mondays. (sample 78),She doesn't like going to school on Mondays. (sample 78)
+Grammar,they is a pen.,They are a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,you was a pen.,You were a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,i am student.,I am a student.
+Grammar,they is a pen.,They are a pen.
+grammar,i am student.,I am a student.
+grammar,they has two dog.,They have two dogs.
+grammar,we was happy.,We were happy.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Emotion,I can't help you. (sample 12),"I’m really sorry, but I’m unable to help you right now. (sample 12)"
+Grammar,she were a pen.,She was a pen.
+grammar,we was happy.,We were happy.
+grammar,this book very interesting.,This book is very interesting.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 91),"The project we discussed yesterday, which needed several approvals, was started. (sample 91)"
+Grammar,you was a pen.,You were a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,she were a pen.,She was a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he can to swim.,He can swim.
+Emotion,I can't help you. (sample 35),"I’m really sorry, but I’m unable to help you right now. (sample 35)"
+Grammar,does she likes a pen.,Does she like a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 87),"The project we discussed yesterday, which needed several approvals, was started. (sample 87)"
+Grammar,john and me a pen.,John and I a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Style,The boy was sad and went home. (sample 94),"With a heavy heart, the boy turned away and walked home in silence. (sample 94)"
+Grammar,i going to a pen.,I am going to a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,this book very interesting.,This book is very interesting.
+Emotion,I can't help you. (sample 33),"I’m really sorry, but I’m unable to help you right now. (sample 33)"
+grammar,i am student.,I am a student.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i has a pen.,I have a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+advanced_enhancement,We was planning to visits them during holiday but it not worked.,"We were planning to visit them during the holidays, but it didn’t work out."
+grammar,he can to swim.,He can swim.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,she were a pen.,She was a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,this book very interesting.,This book is very interesting.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,we was happy.,We were happy.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,you was a pen.,You were a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,they is a pen.,They are a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he go a pen.,He goes a pen.
+Emotion,I can't help you. (sample 86),"I’m really sorry, but I’m unable to help you right now. (sample 86)"
+Emotion,I can't help you. (sample 92),"I’m really sorry, but I’m unable to help you right now. (sample 92)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar/Style,She don't like apples.,She doesn't like apples.
+Grammar,she were a pen.,She was a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,i has a pen.,I have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 37),"The project we discussed yesterday, which needed several approvals, was started. (sample 37)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,they has two dog.,They have two dogs.
+grammar,me like chocolate.,I like chocolate.
+Grammar,he go a pen.,He goes a pen.
+grammar,he go to school every days.,He goes to school every day.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 70),"The project we discussed yesterday, which needed several approvals, was started. (sample 70)"
+Grammar,i has a pen.,I have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,she were a pen.,She was a pen.
+Emotion,I can't help you. (sample 22),"I’m really sorry, but I’m unable to help you right now. (sample 22)"
+Grammar,john and me a pen.,John and I a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Style,The boy was sad and went home. (sample 11),"With a heavy heart, the boy turned away and walked home in silence. (sample 11)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 80),"The project we discussed yesterday, which needed several approvals, was started. (sample 80)"
+Grammar,i going to a pen.,I am going to a pen.
+advanced_enhancement,You failed the test. Try harder next time.,"Unfortunately, you didn’t pass the test this time. But I believe in your potential to succeed next time."
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 24),"The project we discussed yesterday, which needed several approvals, was started. (sample 24)"
+Style,The boy was sad and went home. (sample 35),"With a heavy heart, the boy turned away and walked home in silence. (sample 35)"
+Style,The boy was sad and went home. (sample 73),"With a heavy heart, the boy turned away and walked home in silence. (sample 73)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+Style,The boy was sad and went home. (sample 96),"With a heavy heart, the boy turned away and walked home in silence. (sample 96)"
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i am student.,I am a student.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he go a pen.,He goes a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+grammar,me like chocolate.,I like chocolate.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+grammar,this book very interesting.,This book is very interesting.
+advanced_enhancement,"Prior to the arrival of our team, there were several errors that had occurred that impacted the outcome of the project negatively.","Before our team arrived, several mistakes had already negatively affected the project."
+grammar,they has two dog.,They have two dogs.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,john and me a pen.,John and I a pen.
+Emotion,I can't help you. (sample 77),"I’m really sorry, but I’m unable to help you right now. (sample 77)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 16),"The project we discussed yesterday, which needed several approvals, was started. (sample 16)"
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i am student.,I am a student.
+Grammar,john and me a pen.,John and I a pen.
+grammar,we was happy.,We were happy.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,She don't like go to school on Mondays. (sample 9),She doesn't like going to school on Mondays. (sample 9)
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he can to swim.,He can swim.
+Grammar,he go a pen.,He goes a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,he go to school every days.,He goes to school every day.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 95),"The project we discussed yesterday, which needed several approvals, was started. (sample 95)"
+grammar,they has two dog.,They have two dogs.
+grammar,i am student.,I am a student.
+Grammar,you was not there yesterday.,You were not there yesterday.
+grammar,he can to swim.,He can swim.
+Grammar,they is a pen.,They are a pen.
+Style,The boy was sad and went home. (sample 65),"With a heavy heart, the boy turned away and walked home in silence. (sample 65)"
+Grammar,i has a pen.,I have a pen.
+Style,The boy was sad and went home. (sample 51),"With a heavy heart, the boy turned away and walked home in silence. (sample 51)"
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,She don't like go to school on Mondays. (sample 61),She doesn't like going to school on Mondays. (sample 61)
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,he can to swim.,He can swim.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,me like chocolate.,I like chocolate.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,you was a pen.,You were a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 3),"The project we discussed yesterday, which needed several approvals, was started. (sample 3)"
+Grammar,i has a pen.,I have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,me like chocolate.,I like chocolate.
+grammar,i am student.,I am a student.
+grammar,she don't like fish.,She doesn't like fish.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 69),"The project we discussed yesterday, which needed several approvals, was started. (sample 69)"
+Grammar,we have went a pen.,We have gone a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,you was a pen.,You were a pen.
+Grammar,She don't like go to school on Mondays. (sample 85),She doesn't like going to school on Mondays. (sample 85)
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i has a pen.,I have a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 85),"The project we discussed yesterday, which needed several approvals, was started. (sample 85)"
+grammar,he go to school every days.,He goes to school every day.
+grammar,i am student.,I am a student.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,they is a pen.,They are a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Emotion,I can't help you. (sample 11),"I’m really sorry, but I’m unable to help you right now. (sample 11)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he go a pen.,He goes a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Emotion,I can't help you. (sample 76),"I’m really sorry, but I’m unable to help you right now. (sample 76)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 86),"The project we discussed yesterday, which needed several approvals, was started. (sample 86)"
+Style,The boy was sad and went home. (sample 97),"With a heavy heart, the boy turned away and walked home in silence. (sample 97)"
+grammar,we was happy.,We were happy.
+grammar,they has two dog.,They have two dogs.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,this book very interesting.,This book is very interesting.
+grammar,they has two dog.,They have two dogs.
+Grammar,you was a pen.,You were a pen.
+Grammar,john and me a pen.,John and I a pen.
+Style,The boy was sad and went home. (sample 29),"With a heavy heart, the boy turned away and walked home in silence. (sample 29)"
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,they has two dog.,They have two dogs.
+Grammar,she were a pen.,She was a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,he go to school every days.,He goes to school every day.
+grammar,he can to swim.,He can swim.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Style,The boy was sad and went home. (sample 67),"With a heavy heart, the boy turned away and walked home in silence. (sample 67)"
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,this book very interesting.,This book is very interesting.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i has a pen.,I have a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he can to swim.,He can swim.
+grammar,he can to swim.,He can swim.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 61),"The project we discussed yesterday, which needed several approvals, was started. (sample 61)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 68),"The project we discussed yesterday, which needed several approvals, was started. (sample 68)"
+grammar,she don't like fish.,She doesn't like fish.
+grammar,i am student.,I am a student.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,they is a pen.,They are a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,She don't like go to school on Mondays. (sample 25),She doesn't like going to school on Mondays. (sample 25)
+Emotion,I can't help you. (sample 13),"I’m really sorry, but I’m unable to help you right now. (sample 13)"
+Grammar,i has a pen.,I have a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,you was a pen.,You were a pen.
+Emotion,I can't help you. (sample 70),"I’m really sorry, but I’m unable to help you right now. (sample 70)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,he go a pen.,He goes a pen.
+Grammar,she were a pen.,She was a pen.
+Emotion,I can't help you. (sample 72),"I’m really sorry, but I’m unable to help you right now. (sample 72)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,you was a pen.,You were a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,they has two dog.,They have two dogs.
+Grammar,you was a pen.,You were a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,john and me a pen.,John and I a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,me like chocolate.,I like chocolate.
+grammar,they has two dog.,They have two dogs.
+Grammar,he go a pen.,He goes a pen.
+grammar,they has two dog.,They have two dogs.
+advanced_enhancement,This movie are not very interesting as it seem to be.,This movie is not as interesting as it seems to be.
+Grammar,she were a pen.,She was a pen.
+grammar,he can to swim.,He can swim.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,She don't like go to school on Mondays. (sample 28),She doesn't like going to school on Mondays. (sample 28)
+Grammar,he go a pen.,He goes a pen.
+Grammar,She don't like go to school on Mondays. (sample 1),She doesn't like going to school on Mondays. (sample 1)
+Emotion,I can't help you. (sample 54),"I’m really sorry, but I’m unable to help you right now. (sample 54)"
+grammar,i am student.,I am a student.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he go a pen.,He goes a pen.
+grammar,i am student.,I am a student.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he go a pen.,He goes a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,she were a pen.,She was a pen.
+Emotion,I can't help you. (sample 79),"I’m really sorry, but I’m unable to help you right now. (sample 79)"
+Grammar,he go a pen.,He goes a pen.
+grammar,i am student.,I am a student.
+grammar,they has two dog.,They have two dogs.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,She don't like go to school on Mondays. (sample 2),She doesn't like going to school on Mondays. (sample 2)
+Grammar,She don't like go to school on Mondays. (sample 55),She doesn't like going to school on Mondays. (sample 55)
+Grammar,She don't like go to school on Mondays. (sample 69),She doesn't like going to school on Mondays. (sample 69)
+Grammar,they is a pen.,They are a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,me like chocolate.,I like chocolate.
+grammar,this book very interesting.,This book is very interesting.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Style,The boy was sad and went home. (sample 27),"With a heavy heart, the boy turned away and walked home in silence. (sample 27)"
+Style,The boy was sad and went home. (sample 2),"With a heavy heart, the boy turned away and walked home in silence. (sample 2)"
+grammar,this book very interesting.,This book is very interesting.
+grammar,he go to school every days.,He goes to school every day.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,She don't like go to school on Mondays. (sample 80),She doesn't like going to school on Mondays. (sample 80)
+grammar,me like chocolate.,I like chocolate.
+grammar,they has two dog.,They have two dogs.
+Grammar,he go a pen.,He goes a pen.
+Emotion,I can't help you. (sample 90),"I’m really sorry, but I’m unable to help you right now. (sample 90)"
+grammar,me like chocolate.,I like chocolate.
+grammar,me like chocolate.,I like chocolate.
+Grammar,they is a pen.,They are a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i am student.,I am a student.
+Grammar,She don't like go to school on Mondays. (sample 66),She doesn't like going to school on Mondays. (sample 66)
+Grammar,she were a pen.,She was a pen.
+grammar,he can to swim.,He can swim.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he can to swim.,He can swim.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,She don't like go to school on Mondays. (sample 14),She doesn't like going to school on Mondays. (sample 14)
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 14),"The project we discussed yesterday, which needed several approvals, was started. (sample 14)"
+grammar,he go to school every days.,He goes to school every day.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,She don't like go to school on Mondays. (sample 94),She doesn't like going to school on Mondays. (sample 94)
+Grammar,She don't like go to school on Mondays. (sample 95),She doesn't like going to school on Mondays. (sample 95)
+Style,The boy was sad and went home. (sample 8),"With a heavy heart, the boy turned away and walked home in silence. (sample 8)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 15),"The project we discussed yesterday, which needed several approvals, was started. (sample 15)"
+grammar,i am student.,I am a student.
+Grammar,they is a pen.,They are a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,She don't like go to school on Mondays. (sample 82),She doesn't like going to school on Mondays. (sample 82)
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Style,The boy was sad and went home. (sample 92),"With a heavy heart, the boy turned away and walked home in silence. (sample 92)"
+Grammar,she were a pen.,She was a pen.
+grammar,he can to swim.,He can swim.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i am student.,I am a student.
+Grammar/Style,It was a nice day.,"The day was splendid, with golden sunshine and clear skies."
+Grammar,i going to a pen.,I am going to a pen.
+Emotion,I can't help you. (sample 42),"I’m really sorry, but I’m unable to help you right now. (sample 42)"
+Grammar,she were a pen.,She was a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,She don't like go to school on Mondays. (sample 91),She doesn't like going to school on Mondays. (sample 91)
+Grammar,john and me a pen.,John and I a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,She don't like go to school on Mondays. (sample 34),She doesn't like going to school on Mondays. (sample 34)
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,he can to swim.,He can swim.
+grammar,they has two dog.,They have two dogs.
+Grammar,he go a pen.,He goes a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,you was a pen.,You were a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,john and me a pen.,John and I a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 4),"The project we discussed yesterday, which needed several approvals, was started. (sample 4)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 19),"The project we discussed yesterday, which needed several approvals, was started. (sample 19)"
+grammar,they has two dog.,They have two dogs.
+grammar,they has two dog.,They have two dogs.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,we was happy.,We were happy.
+grammar,me like chocolate.,I like chocolate.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i am student.,I am a student.
+grammar,i am student.,I am a student.
+Grammar,they is a pen.,They are a pen.
+Style,The boy was sad and went home. (sample 78),"With a heavy heart, the boy turned away and walked home in silence. (sample 78)"
+Grammar,she were a pen.,She was a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Emotion,I can't help you. (sample 98),"I’m really sorry, but I’m unable to help you right now. (sample 98)"
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,She don't like go to school on Mondays. (sample 90),She doesn't like going to school on Mondays. (sample 90)
+Grammar,i has a pen.,I have a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,we was happy.,We were happy.
+Grammar,you was a pen.,You were a pen.
+advanced_enhancement,"If he would had know about the traffic, he would come early.","If he had known about the traffic, he would have come early."
+Grammar,you was a pen.,You were a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i going to a pen.,I am going to a pen.
+Emotion,I can't help you. (sample 50),"I’m really sorry, but I’m unable to help you right now. (sample 50)"
+Grammar,they is a pen.,They are a pen.
+grammar,he can to swim.,He can swim.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i has a pen.,I have a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,you was a pen.,You were a pen.
+Style,The boy was sad and went home. (sample 82),"With a heavy heart, the boy turned away and walked home in silence. (sample 82)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he go to school every days.,He goes to school every day.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,She don't like go to school on Mondays. (sample 30),She doesn't like going to school on Mondays. (sample 30)
+Emotion,I can't help you. (sample 23),"I’m really sorry, but I’m unable to help you right now. (sample 23)"
+Style,The boy was sad and went home. (sample 50),"With a heavy heart, the boy turned away and walked home in silence. (sample 50)"
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he go to school every days.,He goes to school every day.
+grammar,me like chocolate.,I like chocolate.
+grammar,we was happy.,We were happy.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,i am student.,I am a student.
+grammar,we was happy.,We were happy.
+Emotion,I can't help you. (sample 19),"I’m really sorry, but I’m unable to help you right now. (sample 19)"
+Grammar,She don't like go to school on Mondays. (sample 96),She doesn't like going to school on Mondays. (sample 96)
+grammar,i am student.,I am a student.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 58),She doesn't like going to school on Mondays. (sample 58)
+Grammar,you was a pen.,You were a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,i has a pen.,I have a pen.
+grammar,he can to swim.,He can swim.
+Style,The boy was sad and went home. (sample 85),"With a heavy heart, the boy turned away and walked home in silence. (sample 85)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i am student.,I am a student.
+Emotion,I can't help you. (sample 80),"I’m really sorry, but I’m unable to help you right now. (sample 80)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,me like chocolate.,I like chocolate.
+advanced_enhancement,She go to the market yesterday and buy many fruit.,She went to the market yesterday and bought many fruits.
+Grammar,she were a pen.,She was a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,we was happy.,We were happy.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,this book very interesting.,This book is very interesting.
+Style,The boy was sad and went home. (sample 25),"With a heavy heart, the boy turned away and walked home in silence. (sample 25)"
+grammar,he can to swim.,He can swim.
+Style,The boy was sad and went home. (sample 40),"With a heavy heart, the boy turned away and walked home in silence. (sample 40)"
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i has a pen.,I have a pen.
+Emotion,I can't help you. (sample 74),"I’m really sorry, but I’m unable to help you right now. (sample 74)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Emotion,I can't help you. (sample 20),"I’m really sorry, but I’m unable to help you right now. (sample 20)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,they is a pen.,They are a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i am student.,I am a student.
+grammar,we was happy.,We were happy.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,does she likes a pen.,Does she like a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 52),"The project we discussed yesterday, which needed several approvals, was started. (sample 52)"
+Style,The boy was sad and went home. (sample 42),"With a heavy heart, the boy turned away and walked home in silence. (sample 42)"
+Grammar,she were a pen.,She was a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he go to school every days.,He goes to school every day.
+Style,The boy was sad and went home. (sample 47),"With a heavy heart, the boy turned away and walked home in silence. (sample 47)"
+grammar,he go to school every days.,He goes to school every day.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,we was happy.,We were happy.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,they has two dog.,They have two dogs.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 50),"The project we discussed yesterday, which needed several approvals, was started. (sample 50)"
+Grammar,i has a pen.,I have a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,john and me a pen.,John and I a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i has a pen.,I have a pen.
+Grammar,She don't like go to school on Mondays. (sample 31),She doesn't like going to school on Mondays. (sample 31)
+grammar,my friend like play piano.,My friend likes to play piano.
+Style,The boy was sad and went home. (sample 59),"With a heavy heart, the boy turned away and walked home in silence. (sample 59)"
+grammar,they has two dog.,They have two dogs.
+Grammar,i going to a pen.,I am going to a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 64),"The project we discussed yesterday, which needed several approvals, was started. (sample 64)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he go to school every days.,He goes to school every day.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he go a pen.,He goes a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 23),"The project we discussed yesterday, which needed several approvals, was started. (sample 23)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+Emotion,I can't help you. (sample 64),"I’m really sorry, but I’m unable to help you right now. (sample 64)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,they is a pen.,They are a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he go to school every days.,He goes to school every day.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 29),"The project we discussed yesterday, which needed several approvals, was started. (sample 29)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,we was happy.,We were happy.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,she were a pen.,She was a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,he go a pen.,He goes a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,you was a pen.,You were a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i am student.,I am a student.
+grammar,he can to swim.,He can swim.
+Style,The boy was sad and went home. (sample 28),"With a heavy heart, the boy turned away and walked home in silence. (sample 28)"
+grammar,they has two dog.,They have two dogs.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 13),She doesn't like going to school on Mondays. (sample 13)
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he go to school every days.,He goes to school every day.
+Style,The boy was sad and went home. (sample 32),"With a heavy heart, the boy turned away and walked home in silence. (sample 32)"
+Grammar,they is a pen.,They are a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i am student.,I am a student.
+Grammar,you was a pen.,You were a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Style,The boy was sad and went home. (sample 43),"With a heavy heart, the boy turned away and walked home in silence. (sample 43)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 34),"The project we discussed yesterday, which needed several approvals, was started. (sample 34)"
+grammar,he go to school every days.,He goes to school every day.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 2),"The project we discussed yesterday, which needed several approvals, was started. (sample 2)"
+grammar,he go to school every days.,He goes to school every day.
+Style,The boy was sad and went home. (sample 89),"With a heavy heart, the boy turned away and walked home in silence. (sample 89)"
+grammar,she don't like fish.,She doesn't like fish.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he can to swim.,He can swim.
+grammar,we was happy.,We were happy.
+Grammar,i has a pen.,I have a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,they has two dog.,They have two dogs.
+Emotion,I can't help you. (sample 93),"I’m really sorry, but I’m unable to help you right now. (sample 93)"
+Grammar,she were a pen.,She was a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,she don't like fish.,She doesn't like fish.
+Emotion,I can't help you. (sample 25),"I’m really sorry, but I’m unable to help you right now. (sample 25)"
+Grammar,john and me a pen.,John and I a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,i has a pen.,I have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,you was a pen.,You were a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,he can to swim.,He can swim.
+grammar,they has two dog.,They have two dogs.
+Grammar,they is a pen.,They are a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i has a pen.,I have a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,does she likes coffee?,Does she like coffee?
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 89),"The project we discussed yesterday, which needed several approvals, was started. (sample 89)"
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,we was happy.,We were happy.
+grammar,we was happy.,We were happy.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Style,The boy was sad and went home. (sample 38),"With a heavy heart, the boy turned away and walked home in silence. (sample 38)"
+Grammar,he go a pen.,He goes a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i am student.,I am a student.
+Grammar,you was a pen.,You were a pen.
+grammar,they has two dog.,They have two dogs.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 55),"The project we discussed yesterday, which needed several approvals, was started. (sample 55)"
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,She don't like go to school on Mondays. (sample 77),She doesn't like going to school on Mondays. (sample 77)
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,She don't like go to school on Mondays. (sample 98),She doesn't like going to school on Mondays. (sample 98)
+grammar,they has two dog.,They have two dogs.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 63),She doesn't like going to school on Mondays. (sample 63)
+Grammar,we have went a pen.,We have gone a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,they has two dog.,They have two dogs.
+Grammar,she were playing.,She was playing.
+grammar,they has two dog.,They have two dogs.
+grammar,he can to swim.,He can swim.
+grammar,i am student.,I am a student.
+grammar,this book very interesting.,This book is very interesting.
+grammar,this book very interesting.,This book is very interesting.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 94),"The project we discussed yesterday, which needed several approvals, was started. (sample 94)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,they has two dog.,They have two dogs.
+Style,The boy was sad and went home. (sample 4),"With a heavy heart, the boy turned away and walked home in silence. (sample 4)"
+grammar,me like chocolate.,I like chocolate.
+grammar,he go to school every days.,He goes to school every day.
+grammar,we was happy.,We were happy.
+grammar,we was happy.,We were happy.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he can to swim.,He can swim.
+Grammar,john and me a pen.,John and I a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Style,The boy was sad and went home. (sample 24),"With a heavy heart, the boy turned away and walked home in silence. (sample 24)"
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,we was happy.,We were happy.
+Grammar,they is a pen.,They are a pen.
+Style,The boy was sad and went home. (sample 95),"With a heavy heart, the boy turned away and walked home in silence. (sample 95)"
+Grammar,john and me a pen.,John and I a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,she were a pen.,She was a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,you was a pen.,You were a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Style,The boy was sad and went home. (sample 74),"With a heavy heart, the boy turned away and walked home in silence. (sample 74)"
+Grammar,they is a pen.,They are a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,She don't like go to school on Mondays. (sample 43),She doesn't like going to school on Mondays. (sample 43)
+grammar,we was happy.,We were happy.
+Grammar,She don't like go to school on Mondays. (sample 4),She doesn't like going to school on Mondays. (sample 4)
+grammar,they has two dog.,They have two dogs.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,me like chocolate.,I like chocolate.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,john and me went to the school.,John and I went to the school.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,the cat eat fish every day.,The cat eats fish every day.
+Grammar,she were a pen.,She was a pen.
+Grammar,i has a pen.,I have a pen.
+advanced_enhancement,"Although he knew that there was a chance for him to win, he decided to avoid participating because of the potential negative outcomes.","Even though he could win, he didn’t participate because of possible risks."
+Grammar,you was a pen.,You were a pen.
+Emotion,I can't help you. (sample 24),"I’m really sorry, but I’m unable to help you right now. (sample 24)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,this book very interesting.,This book is very interesting.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i am student.,I am a student.
+Grammar,she were a pen.,She was a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 48),"The project we discussed yesterday, which needed several approvals, was started. (sample 48)"
+Style,The boy was sad and went home. (sample 72),"With a heavy heart, the boy turned away and walked home in silence. (sample 72)"
+Grammar,i going to a pen.,I am going to a pen.
+Style,The boy was sad and went home. (sample 66),"With a heavy heart, the boy turned away and walked home in silence. (sample 66)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,they has two dog.,They have two dogs.
+grammar,my friend like play piano.,My friend likes to play piano.
+Style,The boy was sad and went home. (sample 6),"With a heavy heart, the boy turned away and walked home in silence. (sample 6)"
+Grammar,you was a pen.,You were a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he go a pen.,He goes a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Style,The boy was sad and went home. (sample 53),"With a heavy heart, the boy turned away and walked home in silence. (sample 53)"
+Emotion,I can't help you. (sample 75),"I’m really sorry, but I’m unable to help you right now. (sample 75)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,you was a pen.,You were a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,we was happy.,We were happy.
+grammar,we was happy.,We were happy.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 73),"The project we discussed yesterday, which needed several approvals, was started. (sample 73)"
+grammar,i am student.,I am a student.
+grammar,we was happy.,We were happy.
+Grammar,you was a pen.,You were a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Emotion,I can't help you. (sample 68),"I’m really sorry, but I’m unable to help you right now. (sample 68)"
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,this book very interesting.,This book is very interesting.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 11),"The project we discussed yesterday, which needed several approvals, was started. (sample 11)"
+Grammar,he go a pen.,He goes a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i has a pen.,I have a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+Grammar,they is a pen.,They are a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 93),"The project we discussed yesterday, which needed several approvals, was started. (sample 93)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,we was happy.,We were happy.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,we have went to the park.,We have gone to the park.
+Emotion,I can't help you. (sample 39),"I’m really sorry, but I’m unable to help you right now. (sample 39)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,you was a pen.,You were a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,she were a pen.,She was a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Style,The boy was sad and went home. (sample 9),"With a heavy heart, the boy turned away and walked home in silence. (sample 9)"
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,he can to swim.,He can swim.
+grammar,they has two dog.,They have two dogs.
+Style,The boy was sad and went home. (sample 93),"With a heavy heart, the boy turned away and walked home in silence. (sample 93)"
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he go to school every days.,He goes to school every day.
+grammar,they has two dog.,They have two dogs.
+Grammar,you was a pen.,You were a pen.
+Style,The boy was sad and went home. (sample 5),"With a heavy heart, the boy turned away and walked home in silence. (sample 5)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he go a pen.,He goes a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,we was happy.,We were happy.
+Style,The boy was sad and went home. (sample 63),"With a heavy heart, the boy turned away and walked home in silence. (sample 63)"
+Grammar,i has a pen.,I have a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Style,The boy was sad and went home. (sample 10),"With a heavy heart, the boy turned away and walked home in silence. (sample 10)"
+grammar,he go to school every days.,He goes to school every day.
+grammar,they has two dog.,They have two dogs.
+grammar,i am student.,I am a student.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,i am student.,I am a student.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 9),"The project we discussed yesterday, which needed several approvals, was started. (sample 9)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,does she likes a pen.,Does she like a pen.
+Style,The boy was sad and went home. (sample 33),"With a heavy heart, the boy turned away and walked home in silence. (sample 33)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,we was happy.,We were happy.
+Grammar,she were a pen.,She was a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,they has two dog.,They have two dogs.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,he can to swim.,He can swim.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar/Style,The cat sat on the mat.,The feline perched elegantly upon the mat.
+Grammar,we have went a pen.,We have gone a pen.
+Style,The boy was sad and went home. (sample 14),"With a heavy heart, the boy turned away and walked home in silence. (sample 14)"
+grammar,they has two dog.,They have two dogs.
+grammar,we was happy.,We were happy.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,you was a pen.,You were a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,they is a pen.,They are a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,i am student.,I am a student.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,i has a pen.,I have a pen.
+Style,The boy was sad and went home. (sample 36),"With a heavy heart, the boy turned away and walked home in silence. (sample 36)"
+Grammar,we have went a pen.,We have gone a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he can to swim.,He can swim.
+Grammar,i has a pen.,I have a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,She don't like go to school on Mondays. (sample 54),She doesn't like going to school on Mondays. (sample 54)
+Grammar,she were a pen.,She was a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,i am student.,I am a student.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 51),"The project we discussed yesterday, which needed several approvals, was started. (sample 51)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,this book very interesting.,This book is very interesting.
+grammar,me like chocolate.,I like chocolate.
+Grammar,she were a pen.,She was a pen.
+Style,The boy was sad and went home. (sample 64),"With a heavy heart, the boy turned away and walked home in silence. (sample 64)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,we was happy.,We were happy.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,me like chocolate.,I like chocolate.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,you was a pen.,You were a pen.
+grammar,this book very interesting.,This book is very interesting.
+Style,The boy was sad and went home. (sample 34),"With a heavy heart, the boy turned away and walked home in silence. (sample 34)"
+grammar,he can to swim.,He can swim.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,we was happy.,We were happy.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i has a pen.,I have a pen.
+grammar,we was happy.,We were happy.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 60),"The project we discussed yesterday, which needed several approvals, was started. (sample 60)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i am student.,I am a student.
+Grammar,john and me a pen.,John and I a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,you was a pen.,You were a pen.
+Emotion,I can't help you. (sample 26),"I’m really sorry, but I’m unable to help you right now. (sample 26)"
+Grammar,you was a pen.,You were a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,we have went a pen.,We have gone a pen.
+Emotion,I can't help you. (sample 45),"I’m really sorry, but I’m unable to help you right now. (sample 45)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,we was happy.,We were happy.
+grammar,he go to school every days.,He goes to school every day.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,you was a pen.,You were a pen.
+grammar,i am student.,I am a student.
+grammar,he can to swim.,He can swim.
+grammar,we was happy.,We were happy.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,i am student.,I am a student.
+grammar,he go to school every days.,He goes to school every day.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,She don't like go to school on Mondays. (sample 17),She doesn't like going to school on Mondays. (sample 17)
+Grammar,She don't like go to school on Mondays. (sample 21),She doesn't like going to school on Mondays. (sample 21)
+grammar,he can to swim.,He can swim.
+Style,The boy was sad and went home. (sample 26),"With a heavy heart, the boy turned away and walked home in silence. (sample 26)"
+grammar,i am student.,I am a student.
+grammar,i am student.,I am a student.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Emotion,I can't help you. (sample 30),"I’m really sorry, but I’m unable to help you right now. (sample 30)"
+Grammar,i has a pen.,I have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,you was a pen.,You were a pen.
+Grammar,i has a pen.,I have a pen.
+Emotion,I can't help you. (sample 71),"I’m really sorry, but I’m unable to help you right now. (sample 71)"
+Grammar,they is a pen.,They are a pen.
+Grammar,She don't like go to school on Mondays. (sample 40),She doesn't like going to school on Mondays. (sample 40)
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,She don't like go to school on Mondays. (sample 70),She doesn't like going to school on Mondays. (sample 70)
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,they is a pen.,They are a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 35),"The project we discussed yesterday, which needed several approvals, was started. (sample 35)"
+grammar,he go to school every days.,He goes to school every day.
+grammar,they has two dog.,They have two dogs.
+Grammar,they is a pen.,They are a pen.
+Grammar,She don't like go to school on Mondays. (sample 87),She doesn't like going to school on Mondays. (sample 87)
+grammar,me like chocolate.,I like chocolate.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,we was happy.,We were happy.
+grammar,i have a cat. it white.,I have a cat. It is white.
+advanced_enhancement,She looked at him and said something.,"With a thoughtful gaze, she turned to him and murmured something indistinct."
+Grammar,they is a pen.,They are a pen.
+grammar,we was happy.,We were happy.
+Grammar,they is a pen.,They are a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,he can to swim.,He can swim.
+advanced_enhancement,He said he didn’t like the food.,He expressed his discontent with the culinary offerings.
+Grammar,She don't like go to school on Mondays. (sample 65),She doesn't like going to school on Mondays. (sample 65)
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,he can to swim.,He can swim.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he go a pen.,He goes a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,she don't like fish.,She doesn't like fish.
+Style,The boy was sad and went home. (sample 88),"With a heavy heart, the boy turned away and walked home in silence. (sample 88)"
+grammar,he can to swim.,He can swim.
+Grammar,i has a pen.,I have a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 97),"The project we discussed yesterday, which needed several approvals, was started. (sample 97)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,she were a pen.,She was a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,we was happy.,We were happy.
+grammar,he go to school every days.,He goes to school every day.
+grammar,he can to swim.,He can swim.
+advanced_enhancement,Stop asking so many questions.,Let’s take a moment to answer one question at a time so it’s easier to understand.
+Grammar,they is a pen.,They are a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,She don't like go to school on Mondays. (sample 10),She doesn't like going to school on Mondays. (sample 10)
+grammar,they has two dog.,They have two dogs.
+Grammar,they is a pen.,They are a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Style,The boy was sad and went home. (sample 22),"With a heavy heart, the boy turned away and walked home in silence. (sample 22)"
+Grammar,john and me a pen.,John and I a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,does she likes a pen.,Does she like a pen.
+Style,The boy was sad and went home. (sample 49),"With a heavy heart, the boy turned away and walked home in silence. (sample 49)"
+grammar,he go to school every days.,He goes to school every day.
+Grammar,i has a pen.,I have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,i am student.,I am a student.
+grammar,we was happy.,We were happy.
+Grammar,she were a pen.,She was a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,we was happy.,We were happy.
+Emotion,I can't help you. (sample 21),"I’m really sorry, but I’m unable to help you right now. (sample 21)"
+Grammar,does she likes a pen.,Does she like a pen.
+Style,The boy was sad and went home. (sample 17),"With a heavy heart, the boy turned away and walked home in silence. (sample 17)"
+grammar,he can to swim.,He can swim.
+grammar,me like chocolate.,I like chocolate.
+grammar,i am student.,I am a student.
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,i has a pen.,I have a pen.
+Style,The boy was sad and went home. (sample 20),"With a heavy heart, the boy turned away and walked home in silence. (sample 20)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,i has a pen.,I have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,he go to school every days.,He goes to school every day.
+grammar,we was happy.,We were happy.
+Grammar,you was a pen.,You were a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,they is a pen.,They are a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,they has two dog.,They have two dogs.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,john and me a pen.,John and I a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,She don't like go to school on Mondays. (sample 92),She doesn't like going to school on Mondays. (sample 92)
+Grammar,She don't like go to school on Mondays. (sample 99),She doesn't like going to school on Mondays. (sample 99)
+grammar,he go to school every days.,He goes to school every day.
+Grammar,she were a pen.,She was a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,She don't like go to school on Mondays. (sample 37),She doesn't like going to school on Mondays. (sample 37)
+grammar,he can to swim.,He can swim.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,we was happy.,We were happy.
+grammar,i am student.,I am a student.
+grammar,i am student.,I am a student.
+Grammar,i has a pen.,I have a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,you was a pen.,You were a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,we was happy.,We were happy.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,john and me a pen.,John and I a pen.
+Emotion,I can't help you. (sample 31),"I’m really sorry, but I’m unable to help you right now. (sample 31)"
+Grammar,she were a pen.,She was a pen.
+Emotion,I can't help you. (sample 96),"I’m really sorry, but I’m unable to help you right now. (sample 96)"
+Grammar,she were a pen.,She was a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Emotion,I can't help you. (sample 53),"I’m really sorry, but I’m unable to help you right now. (sample 53)"
+Grammar,they is a pen.,They are a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,She don't like go to school on Mondays. (sample 79),She doesn't like going to school on Mondays. (sample 79)
+Grammar,they is a pen.,They are a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 33),"The project we discussed yesterday, which needed several approvals, was started. (sample 33)"
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he can to swim.,He can swim.
+Emotion,I can't help you. (sample 65),"I’m really sorry, but I’m unable to help you right now. (sample 65)"
+Emotion,I can't help you. (sample 56),"I’m really sorry, but I’m unable to help you right now. (sample 56)"
+grammar,they has two dog.,They have two dogs.
+grammar,we was happy.,We were happy.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he go a pen.,He goes a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,they has two dog.,They have two dogs.
+grammar,me like chocolate.,I like chocolate.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Emotion,I can't help you. (sample 15),"I’m really sorry, but I’m unable to help you right now. (sample 15)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 59),"The project we discussed yesterday, which needed several approvals, was started. (sample 59)"
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he go a pen.,He goes a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 92),"The project we discussed yesterday, which needed several approvals, was started. (sample 92)"
+Style,The boy was sad and went home. (sample 30),"With a heavy heart, the boy turned away and walked home in silence. (sample 30)"
+Grammar,i has a pen.,I have a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,we was happy.,We were happy.
+grammar,he go to school every days.,He goes to school every day.
+Style,The boy was sad and went home. (sample 62),"With a heavy heart, the boy turned away and walked home in silence. (sample 62)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 36),"The project we discussed yesterday, which needed several approvals, was started. (sample 36)"
+Grammar,She don't like go to school on Mondays. (sample 22),She doesn't like going to school on Mondays. (sample 22)
+Grammar,she were a pen.,She was a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar/Style,This is your problem.,I believe this issue affects us both and should be addressed together.
+grammar,he can to swim.,He can swim.
+Grammar,i has a pen.,I have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Style,The boy was sad and went home. (sample 44),"With a heavy heart, the boy turned away and walked home in silence. (sample 44)"
+Grammar,She don't like go to school on Mondays. (sample 26),She doesn't like going to school on Mondays. (sample 26)
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,he go to school every days.,He goes to school every day.
+Style,The boy was sad and went home. (sample 87),"With a heavy heart, the boy turned away and walked home in silence. (sample 87)"
+grammar,this book very interesting.,This book is very interesting.
+grammar,me like chocolate.,I like chocolate.
+grammar,we was happy.,We were happy.
+grammar,they has two dog.,They have two dogs.
+Style,The boy was sad and went home. (sample 19),"With a heavy heart, the boy turned away and walked home in silence. (sample 19)"
+grammar,she don't like fish.,She doesn't like fish.
+grammar,we was happy.,We were happy.
+advanced_enhancement,This report is about the results of the survey.,The following report encapsulates the key insights gathered from our recent survey.
+grammar,he go to school every days.,He goes to school every day.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i am student.,I am a student.
+Emotion,I can't help you. (sample 41),"I’m really sorry, but I’m unable to help you right now. (sample 41)"
+grammar,they has two dog.,They have two dogs.
+Emotion,I can't help you. (sample 43),"I’m really sorry, but I’m unable to help you right now. (sample 43)"
+grammar,they has two dog.,They have two dogs.
+grammar,she don't like fish.,She doesn't like fish.
+Emotion,I can't help you. (sample 27),"I’m really sorry, but I’m unable to help you right now. (sample 27)"
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,he go a pen.,He goes a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 63),"The project we discussed yesterday, which needed several approvals, was started. (sample 63)"
+Grammar,you was a pen.,You were a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,me like chocolate.,I like chocolate.
+Grammar,i has a pen.,I have a pen.
+Grammar,they is a pen.,They are a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 31),"The project we discussed yesterday, which needed several approvals, was started. (sample 31)"
+Grammar,they is a pen.,They are a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar/Style,I hate the way you did that.,"I'm uncomfortable with how that was handled, can we talk about it?"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,me like chocolate.,I like chocolate.
+Emotion,I can't help you. (sample 5),"I’m really sorry, but I’m unable to help you right now. (sample 5)"
+Grammar,you was a pen.,You were a pen.
+grammar,i am student.,I am a student.
+Grammar,i has a pen.,I have a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 15),She doesn't like going to school on Mondays. (sample 15)
+Style,The boy was sad and went home. (sample 75),"With a heavy heart, the boy turned away and walked home in silence. (sample 75)"
+Grammar,you was a pen.,You were a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,we was happy.,We were happy.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,me like chocolate.,I like chocolate.
+grammar,i am student.,I am a student.
+grammar,i am student.,I am a student.
+Grammar,she were a pen.,She was a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,he go to school every days.,He goes to school every day.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 40),"The project we discussed yesterday, which needed several approvals, was started. (sample 40)"
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,they is a pen.,They are a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,john and me a pen.,John and I a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 96),"The project we discussed yesterday, which needed several approvals, was started. (sample 96)"
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,we was happy.,We were happy.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,She don't like go to school on Mondays. (sample 84),She doesn't like going to school on Mondays. (sample 84)
+grammar,i have a cat. it white.,I have a cat. It is white.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 46),"The project we discussed yesterday, which needed several approvals, was started. (sample 46)"
+Style,The boy was sad and went home. (sample 15),"With a heavy heart, the boy turned away and walked home in silence. (sample 15)"
+grammar,me like chocolate.,I like chocolate.
+Style,The boy was sad and went home. (sample 41),"With a heavy heart, the boy turned away and walked home in silence. (sample 41)"
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,he go a pen.,He goes a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,this book very interesting.,This book is very interesting.
+Style,The boy was sad and went home. (sample 79),"With a heavy heart, the boy turned away and walked home in silence. (sample 79)"
+grammar,they has two dog.,They have two dogs.
+grammar,me like chocolate.,I like chocolate.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 79),"The project we discussed yesterday, which needed several approvals, was started. (sample 79)"
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he can to swim.,He can swim.
+Emotion,I can't help you. (sample 8),"I’m really sorry, but I’m unable to help you right now. (sample 8)"
+grammar,we was happy.,We were happy.
+Grammar,you was a pen.,You were a pen.
+Grammar,we have went a pen.,We have gone a pen.
+advanced_enhancement,"In the instance where the individual fails to comply with stipulated guidelines, penalties may be applicable depending on severity.","If someone doesn't follow the rules, they might be penalized based on how serious it is."
+Grammar,he go a pen.,He goes a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,this book very interesting.,This book is very interesting.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 88),"The project we discussed yesterday, which needed several approvals, was started. (sample 88)"
+grammar,i am student.,I am a student.
+Emotion,I can't help you. (sample 44),"I’m really sorry, but I’m unable to help you right now. (sample 44)"
+grammar,he go to school every days.,He goes to school every day.
+Grammar,she were a pen.,She was a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,She don't like go to school on Mondays. (sample 88),She doesn't like going to school on Mondays. (sample 88)
+Grammar,She don't like go to school on Mondays. (sample 23),She doesn't like going to school on Mondays. (sample 23)
+Grammar,i has a pen.,I have a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,you was a pen.,You were a pen.
+Grammar,she were a pen.,She was a pen.
+grammar,he go to school every days.,He goes to school every day.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 77),"The project we discussed yesterday, which needed several approvals, was started. (sample 77)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 47),"The project we discussed yesterday, which needed several approvals, was started. (sample 47)"
+grammar,this book very interesting.,This book is very interesting.
+Emotion,I can't help you. (sample 37),"I’m really sorry, but I’m unable to help you right now. (sample 37)"
+grammar,he can to swim.,He can swim.
+Grammar,you was a pen.,You were a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 100),"The project we discussed yesterday, which needed several approvals, was started. (sample 100)"
+Grammar,She don't like go to school on Mondays. (sample 56),She doesn't like going to school on Mondays. (sample 56)
+grammar,this book very interesting.,This book is very interesting.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,She don't like go to school on Mondays. (sample 53),She doesn't like going to school on Mondays. (sample 53)
+Grammar,does she likes a pen.,Does she like a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 58),"The project we discussed yesterday, which needed several approvals, was started. (sample 58)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 65),"The project we discussed yesterday, which needed several approvals, was started. (sample 65)"
+grammar,we was happy.,We were happy.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,She don't like go to school on Mondays. (sample 39),She doesn't like going to school on Mondays. (sample 39)
+grammar,he can to swim.,He can swim.
+grammar,we was happy.,We were happy.
+grammar,me like chocolate.,I like chocolate.
+Grammar,you was a pen.,You were a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,me like chocolate.,I like chocolate.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Style,The boy was sad and went home. (sample 98),"With a heavy heart, the boy turned away and walked home in silence. (sample 98)"
+Grammar,you was a pen.,You were a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,you was a pen.,You were a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,we was happy.,We were happy.
+Emotion,I can't help you. (sample 47),"I’m really sorry, but I’m unable to help you right now. (sample 47)"
+Grammar,you was a pen.,You were a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,She don't like go to school on Mondays. (sample 33),She doesn't like going to school on Mondays. (sample 33)
+grammar,they has two dog.,They have two dogs.
+grammar,they has two dog.,They have two dogs.
+Style,The boy was sad and went home. (sample 56),"With a heavy heart, the boy turned away and walked home in silence. (sample 56)"
+grammar,we was happy.,We were happy.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,he go to school every days.,He goes to school every day.
+Emotion,I can't help you. (sample 87),"I’m really sorry, but I’m unable to help you right now. (sample 87)"
+grammar,me like chocolate.,I like chocolate.
+Grammar,she were a pen.,She was a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,we was happy.,We were happy.
+grammar,we was happy.,We were happy.
+Style,The boy was sad and went home. (sample 83),"With a heavy heart, the boy turned away and walked home in silence. (sample 83)"
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i am student.,I am a student.
+Emotion,I can't help you. (sample 4),"I’m really sorry, but I’m unable to help you right now. (sample 4)"
+Grammar,she were a pen.,She was a pen.
+grammar,we was happy.,We were happy.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he can to swim.,He can swim.
+Grammar,i has a pen.,I have a pen.
+grammar,me like chocolate.,I like chocolate.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 13),"The project we discussed yesterday, which needed several approvals, was started. (sample 13)"
+grammar,i am student.,I am a student.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i am student.,I am a student.
+advanced_enhancement,There was this occasion where everyone started acting in a way that could be interpreted as being collectively confused and uncoordinated.,Everyone acted confused and disorganized.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Style,The boy was sad and went home. (sample 90),"With a heavy heart, the boy turned away and walked home in silence. (sample 90)"
+Grammar,she were a pen.,She was a pen.
+Grammar,She don't like go to school on Mondays. (sample 89),She doesn't like going to school on Mondays. (sample 89)
+grammar,this book very interesting.,This book is very interesting.
+grammar,they has two dog.,They have two dogs.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i am student.,I am a student.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he go a pen.,He goes a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,you was a pen.,You were a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,they is a pen.,They are a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Emotion,I can't help you. (sample 67),"I’m really sorry, but I’m unable to help you right now. (sample 67)"
+grammar,me like chocolate.,I like chocolate.
+Style,The boy was sad and went home. (sample 16),"With a heavy heart, the boy turned away and walked home in silence. (sample 16)"
+grammar,he can to swim.,He can swim.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,She don't like go to school on Mondays. (sample 57),She doesn't like going to school on Mondays. (sample 57)
+grammar,my friend like play piano.,My friend likes to play piano.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 82),"The project we discussed yesterday, which needed several approvals, was started. (sample 82)"
+Grammar/Style,"The results, which were unexpected and surprising to many, were finally published last week.",The surprising results were finally published last week.
+grammar,he can to swim.,He can swim.
+grammar,we was happy.,We were happy.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+grammar,he can to swim.,He can swim.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,i am student.,I am a student.
+grammar,we was happy.,We were happy.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he go a pen.,He goes a pen.
+grammar,he can to swim.,He can swim.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i am student.,I am a student.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Style,The boy was sad and went home. (sample 39),"With a heavy heart, the boy turned away and walked home in silence. (sample 39)"
+Grammar,She don't like go to school on Mondays. (sample 6),She doesn't like going to school on Mondays. (sample 6)
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,me like chocolate.,I like chocolate.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,john and me a pen.,John and I a pen.
+grammar,i am student.,I am a student.
+Style,The boy was sad and went home. (sample 3),"With a heavy heart, the boy turned away and walked home in silence. (sample 3)"
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Emotion,I can't help you. (sample 18),"I’m really sorry, but I’m unable to help you right now. (sample 18)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,i has a pen.,I have a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,i has never seen such thing.,I have never seen such a thing.
+Grammar,She don't like go to school on Mondays. (sample 83),She doesn't like going to school on Mondays. (sample 83)
+grammar,he can to swim.,He can swim.
+Grammar,john and me a pen.,John and I a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,they is a pen.,They are a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,they is a pen.,They are a pen.
+Emotion,I can't help you. (sample 3),"I’m really sorry, but I’m unable to help you right now. (sample 3)"
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,he go a pen.,He goes a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 32),"The project we discussed yesterday, which needed several approvals, was started. (sample 32)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 10),"The project we discussed yesterday, which needed several approvals, was started. (sample 10)"
+Grammar,she were a pen.,She was a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,She don't like go to school on Mondays. (sample 3),She doesn't like going to school on Mondays. (sample 3)
+grammar,me like chocolate.,I like chocolate.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 41),"The project we discussed yesterday, which needed several approvals, was started. (sample 41)"
+grammar,he go to school every days.,He goes to school every day.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,She don't like go to school on Mondays. (sample 72),She doesn't like going to school on Mondays. (sample 72)
+grammar,he can to swim.,He can swim.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,john and me a pen.,John and I a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,we was happy.,We were happy.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,they is a pen.,They are a pen.
+Emotion,I can't help you. (sample 10),"I’m really sorry, but I’m unable to help you right now. (sample 10)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 17),"The project we discussed yesterday, which needed several approvals, was started. (sample 17)"
+Grammar,you was a pen.,You were a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,She don't like go to school on Mondays. (sample 68),She doesn't like going to school on Mondays. (sample 68)
+Grammar,i has a pen.,I have a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 39),"The project we discussed yesterday, which needed several approvals, was started. (sample 39)"
+Grammar,you was a pen.,You were a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,i am student.,I am a student.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,they is a pen.,They are a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 6),"The project we discussed yesterday, which needed several approvals, was started. (sample 6)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 57),"The project we discussed yesterday, which needed several approvals, was started. (sample 57)"
+grammar,this book very interesting.,This book is very interesting.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,you was a pen.,You were a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,you was a pen.,You were a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+Grammar,i has a pen.,I have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,you was a pen.,You were a pen.
+Style,The boy was sad and went home. (sample 100),"With a heavy heart, the boy turned away and walked home in silence. (sample 100)"
+Grammar,you was a pen.,You were a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he can to swim.,He can swim.
+Style,The boy was sad and went home. (sample 37),"With a heavy heart, the boy turned away and walked home in silence. (sample 37)"
+Grammar,he go a pen.,He goes a pen.
+grammar,we was happy.,We were happy.
+grammar,this book very interesting.,This book is very interesting.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,i has a pen.,I have a pen.
+grammar,i am student.,I am a student.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 30),"The project we discussed yesterday, which needed several approvals, was started. (sample 30)"
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,She don't like go to school on Mondays. (sample 51),She doesn't like going to school on Mondays. (sample 51)
+grammar,we was happy.,We were happy.
+grammar,me like chocolate.,I like chocolate.
+Grammar,She don't like go to school on Mondays. (sample 60),She doesn't like going to school on Mondays. (sample 60)
+Emotion,I can't help you. (sample 34),"I’m really sorry, but I’m unable to help you right now. (sample 34)"
+Grammar,john and me a pen.,John and I a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,this book very interesting.,This book is very interesting.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,he go a pen.,He goes a pen.
+Grammar,i has a pen.,I have a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,they has two dog.,They have two dogs.
+grammar,me like chocolate.,I like chocolate.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,She don't like go to school on Mondays. (sample 36),She doesn't like going to school on Mondays. (sample 36)
+Grammar,he go a pen.,He goes a pen.
+Grammar,you was a pen.,You were a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,he go a pen.,He goes a pen.
+grammar,me like chocolate.,I like chocolate.
+Emotion,I can't help you. (sample 9),"I’m really sorry, but I’m unable to help you right now. (sample 9)"
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 49),"The project we discussed yesterday, which needed several approvals, was started. (sample 49)"
+advanced_enhancement,"Due to the presence of various contributing factors, it is seen that performance tends to fluctuate inconsistently across departments.",Performance varies across departments because of several contributing factors.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,they has two dog.,They have two dogs.
+Emotion,I can't help you. (sample 91),"I’m really sorry, but I’m unable to help you right now. (sample 91)"
+grammar,he go to school every days.,He goes to school every day.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,john and me a pen.,John and I a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,i has a pen.,I have a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,he go to school every days.,He goes to school every day.
+grammar,he can to swim.,He can swim.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,they is a pen.,They are a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,we was happy.,We were happy.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,me like chocolate.,I like chocolate.
+grammar,they has two dog.,They have two dogs.
+Grammar,they is a pen.,They are a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 45),"The project we discussed yesterday, which needed several approvals, was started. (sample 45)"
+grammar,i am student.,I am a student.
+grammar,this book very interesting.,This book is very interesting.
+grammar,he can to swim.,He can swim.
+Grammar,she were a pen.,She was a pen.
+Style,The boy was sad and went home. (sample 18),"With a heavy heart, the boy turned away and walked home in silence. (sample 18)"
+grammar,they has two dog.,They have two dogs.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,they is a pen.,They are a pen.
+grammar,this book very interesting.,This book is very interesting.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,she were a pen.,She was a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar/Style,They was late.,They were late.
+grammar,we was happy.,We were happy.
+grammar,they has two dog.,They have two dogs.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,they has two dog.,They have two dogs.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,john and me a pen.,John and I a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,this book very interesting.,This book is very interesting.
+Style,The boy was sad and went home. (sample 60),"With a heavy heart, the boy turned away and walked home in silence. (sample 60)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,he go a pen.,He goes a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,john and me a pen.,John and I a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 38),"The project we discussed yesterday, which needed several approvals, was started. (sample 38)"
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,he can to swim.,He can swim.
+Grammar,i has a pen.,I have a pen.
+Grammar,they is a pen.,They are a pen.
+Grammar,john and me a pen.,John and I a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar/Style,"Despite the rain, which was heavy, they went out, and although it was cold, they stayed outside.",They went out despite the heavy rain and stayed outside even though it was cold.
+grammar,she don't like fish.,She doesn't like fish.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,i am student.,I am a student.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 44),"The project we discussed yesterday, which needed several approvals, was started. (sample 44)"
+grammar,me like chocolate.,I like chocolate.
+grammar,they has two dog.,They have two dogs.
+Grammar,you was a pen.,You were a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,he can to swim.,He can swim.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,this book very interesting.,This book is very interesting.
+Emotion,I can't help you. (sample 82),"I’m really sorry, but I’m unable to help you right now. (sample 82)"
+grammar,this book very interesting.,This book is very interesting.
+grammar,he can to swim.,He can swim.
+grammar,she don't like fish.,She doesn't like fish.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 27),"The project we discussed yesterday, which needed several approvals, was started. (sample 27)"
+grammar,they has two dog.,They have two dogs.
+grammar,me like chocolate.,I like chocolate.
+grammar,we was happy.,We were happy.
+Grammar,they is a pen.,They are a pen.
+Grammar,they is a pen.,They are a pen.
+Emotion,I can't help you. (sample 48),"I’m really sorry, but I’m unable to help you right now. (sample 48)"
+Grammar,i has a pen.,I have a pen.
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar/Style,He ran fast.,He sprinted swiftly through the street.
+grammar,they has two dog.,They have two dogs.
+Grammar,he go a pen.,He goes a pen.
+Emotion,I can't help you. (sample 73),"I’m really sorry, but I’m unable to help you right now. (sample 73)"
+grammar,we was happy.,We were happy.
+Grammar,she were a pen.,She was a pen.
+Emotion,I can't help you. (sample 97),"I’m really sorry, but I’m unable to help you right now. (sample 97)"
+Style,The boy was sad and went home. (sample 91),"With a heavy heart, the boy turned away and walked home in silence. (sample 91)"
+Style,The boy was sad and went home. (sample 99),"With a heavy heart, the boy turned away and walked home in silence. (sample 99)"
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,this book very interesting.,This book is very interesting.
+grammar,we was happy.,We were happy.
+grammar,they has two dog.,They have two dogs.
+grammar,she don't like fish.,She doesn't like fish.
+Style,The boy was sad and went home. (sample 45),"With a heavy heart, the boy turned away and walked home in silence. (sample 45)"
+grammar,i am student.,I am a student.
+grammar,we was happy.,We were happy.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,She don't like go to school on Mondays. (sample 42),She doesn't like going to school on Mondays. (sample 42)
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,they has two dog.,They have two dogs.
+grammar,i am student.,I am a student.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 74),"The project we discussed yesterday, which needed several approvals, was started. (sample 74)"
+Grammar,She don't like go to school on Mondays. (sample 50),She doesn't like going to school on Mondays. (sample 50)
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,we was happy.,We were happy.
+grammar,he can to swim.,He can swim.
+grammar,i have a cat. it white.,I have a cat. It is white.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,She don't like go to school on Mondays. (sample 11),She doesn't like going to school on Mondays. (sample 11)
+Grammar,they is a pen.,They are a pen.
+Grammar,they is a pen.,They are a pen.
+grammar,he go to school every days.,He goes to school every day.
+grammar,me like chocolate.,I like chocolate.
+Grammar,She don't like go to school on Mondays. (sample 29),She doesn't like going to school on Mondays. (sample 29)
+Grammar,john and me a pen.,John and I a pen.
+Grammar,she were a pen.,She was a pen.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,She don't like go to school on Mondays. (sample 19),She doesn't like going to school on Mondays. (sample 19)
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,he can to swim.,He can swim.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,you was a pen.,You were a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,i am student.,I am a student.
+grammar,we was happy.,We were happy.
+grammar,we was happy.,We were happy.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,does she likes a pen.,Does she like a pen.
+grammar,we was happy.,We were happy.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,i am student.,I am a student.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 53),"The project we discussed yesterday, which needed several approvals, was started. (sample 53)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 43),"The project we discussed yesterday, which needed several approvals, was started. (sample 43)"
+Style,The boy was sad and went home. (sample 58),"With a heavy heart, the boy turned away and walked home in silence. (sample 58)"
+Grammar,you was a pen.,You were a pen.
+grammar,i am student.,I am a student.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 71),"The project we discussed yesterday, which needed several approvals, was started. (sample 71)"
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,they is a pen.,They are a pen.
+grammar,he go to school every days.,He goes to school every day.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,She don't like go to school on Mondays. (sample 67),She doesn't like going to school on Mondays. (sample 67)
+Grammar,does she likes a pen.,Does she like a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,She don't like go to school on Mondays. (sample 7),She doesn't like going to school on Mondays. (sample 7)
+Emotion,I can't help you. (sample 66),"I’m really sorry, but I’m unable to help you right now. (sample 66)"
+Grammar,we have went a pen.,We have gone a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,me like chocolate.,I like chocolate.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,they has two dog.,They have two dogs.
+Grammar,she were a pen.,She was a pen.
+grammar,he can to swim.,He can swim.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 20),"The project we discussed yesterday, which needed several approvals, was started. (sample 20)"
+Grammar,She don't like go to school on Mondays. (sample 12),She doesn't like going to school on Mondays. (sample 12)
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,you was a pen.,You were a pen.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,we was happy.,We were happy.
+Style,The boy was sad and went home. (sample 81),"With a heavy heart, the boy turned away and walked home in silence. (sample 81)"
+grammar,they has two dog.,They have two dogs.
+Style,The boy was sad and went home. (sample 54),"With a heavy heart, the boy turned away and walked home in silence. (sample 54)"
+grammar,me like chocolate.,I like chocolate.
+Grammar,i going to a pen.,I am going to a pen.
+grammar,me like chocolate.,I like chocolate.
+grammar,she don't like fish.,She doesn't like fish.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Emotion,I can't help you. (sample 88),"I’m really sorry, but I’m unable to help you right now. (sample 88)"
+grammar,he go to school every days.,He goes to school every day.
+grammar,we was happy.,We were happy.
+Grammar,john and me a pen.,John and I a pen.
+grammar,we was happy.,We were happy.
+Emotion,I can't help you. (sample 58),"I’m really sorry, but I’m unable to help you right now. (sample 58)"
+grammar,they has two dog.,They have two dogs.
+Grammar,she were a pen.,She was a pen.
+Grammar,he go a pen.,He goes a pen.
+grammar,this book very interesting.,This book is very interesting.
+Grammar,we have went a pen.,We have gone a pen.
+grammar,i have a cat. it white.,I have a cat. It is white.
+Grammar,She don't like go to school on Mondays. (sample 73),She doesn't like going to school on Mondays. (sample 73)
+Grammar,you was a pen.,You were a pen.
+Grammar,i has a pen.,I have a pen.
+grammar,he can to swim.,He can swim.
+Grammar,i going to a pen.,I am going to a pen.
+Grammar,he go a pen.,He goes a pen.
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 75),"The project we discussed yesterday, which needed several approvals, was started. (sample 75)"
+grammar,he go to school every days.,He goes to school every day.
+Grammar,we have went a pen.,We have gone a pen.
+Emotion,I can't help you. (sample 6),"I’m really sorry, but I’m unable to help you right now. (sample 6)"
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,me like chocolate.,I like chocolate.
+Grammar,he go a pen.,He goes a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+Grammar,he don't has a pen.,He doesn't have a pen.
+grammar,my friend like play piano.,My friend likes to play piano.
+grammar,i am student.,I am a student.
+Grammar,he don't has a pen.,He doesn't have a pen.
+Emotion,I can't help you. (sample 29),"I’m really sorry, but I’m unable to help you right now. (sample 29)"
+Grammar,john and me a pen.,John and I a pen.
+grammar,they has two dog.,They have two dogs.
+grammar,we was happy.,We were happy.
+Grammar,She don't like go to school on Mondays. (sample 86),She doesn't like going to school on Mondays. (sample 86)
+Clarity,The project which we discussed about yesterday which had many parts and needed approvals was started. (sample 21),"The project we discussed yesterday, which needed several approvals, was started. (sample 21)"
+Emotion,I can't help you. (sample 85),"I’m really sorry, but I’m unable to help you right now. (sample 85)"
+Grammar,he don't has a pen.,He doesn't have a pen.

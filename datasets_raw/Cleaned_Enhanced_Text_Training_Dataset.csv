@@ -1,0 +1,162 @@
+category,input_text,target_text
+Grammar Correction,He go to school everyday.,He goes to school every day.
+Grammar Correction,She don't like apples,She doesn't like apples.
+Grammar Correction,The cat sleep on the bed,The cat sleeps on the bed
+Grammar Correction,They was going to the market,They were going to the market.
+Grammar Correction,I has a car,I have a car.
+Grammar Correction,He go to school everyday,He goes to school every day!
+Grammar Correction,She don't like apples.,She doesn't like apples
+Grammar Correction,The cat sleep on the bed.,The cat sleeps on the bed
+Grammar Correction,They was going to the market!,They were going to the market
+Grammar Correction,He go to school everyday.,He goes to school every day
+Grammar Correction,She don't like apples.,She doesn't like apples.
+Grammar Correction,The cat sleep on the bed,The cat sleeps on the bed!
+Grammar Correction,They was going to the market!,They were going to the market.
+Grammar Correction,He go to school everyday,He goes to school every day.
+Grammar Correction,She don't like apples!,She doesn't like apples!
+Grammar Correction,I has a car!,I have a car.
+Grammar Correction,The cat sleep on the bed!,The cat sleeps on the bed
+Grammar Correction,They was going to the market.,They were going to the market!
+Grammar Correction,I has a car!,I have a car
+Grammar Correction,The cat sleep on the bed.,The cat sleeps on the bed!
+Grammar Correction,They was going to the market!,They were going to the market!
+Grammar Correction,She don't like apples.,She doesn't like apples!
+Grammar Correction,The cat sleep on the bed,The cat sleeps on the bed.
+Grammar Correction,They was going to the market.,They were going to the market
+Grammar Correction,I has a car.,I have a car!
+Grammar Correction,I has a car,I have a car!
+Grammar Correction,The cat sleep on the bed!,The cat sleeps on the bed!
+Grammar Correction,He go to school everyday,He goes to school every day
+Grammar Correction,She don't like apples!,She doesn't like apples
+Grammar Correction,The cat sleep on the bed!,The cat sleeps on the bed.
+Grammar Correction,They was going to the market,They were going to the market
+Grammar Correction,I has a car.,I have a car
+Grammar Correction,She don't like apples,She doesn't like apples!
+Grammar Correction,He go to school everyday!,He goes to school every day
+Grammar Correction,They was going to the market,They were going to the market!
+Grammar Correction,I has a car,I have a car
+Grammar Correction,She don't like apples!,She doesn't like apples.
+Grammar Correction,I has a car.,I have a car.
+Grammar Correction,She don't like apples,She doesn't like apples
+Clarity Improvement,"Due to the fact that it was raining, we stayed inside","Because it was raining, we stayed inside."
+Clarity Improvement,He was not able to finish the project because of his sickness,He couldn't finish the project because he was sick!
+Clarity Improvement,"In the event of an emergency, use the stairs.","If there's an emergency, use the stairs."
+Clarity Improvement,"At this point in time, we are unsure!",We are currently unsure.
+Clarity Improvement,The book that is on the table is mine!,The book on the table is mine!
+Clarity Improvement,"Due to the fact that it was raining, we stayed inside.","Because it was raining, we stayed inside!"
+Clarity Improvement,He was not able to finish the project because of his sickness!,He couldn't finish the project because he was sick.
+Clarity Improvement,"In the event of an emergency, use the stairs!","If there's an emergency, use the stairs!"
+Clarity Improvement,"At this point in time, we are unsure.",We are currently unsure
+Clarity Improvement,The book that is on the table is mine!,The book on the table is mine
+Clarity Improvement,He was not able to finish the project because of his sickness,He couldn't finish the project because he was sick
+Clarity Improvement,"In the event of an emergency, use the stairs","If there's an emergency, use the stairs!"
+Clarity Improvement,"At this point in time, we are unsure.",We are currently unsure!
+Clarity Improvement,"In the event of an emergency, use the stairs.","If there's an emergency, use the stairs"
+Clarity Improvement,"At this point in time, we are unsure",We are currently unsure.
+Clarity Improvement,The book that is on the table is mine,The book on the table is mine.
+Clarity Improvement,"Due to the fact that it was raining, we stayed inside!","Because it was raining, we stayed inside!"
+Clarity Improvement,He was not able to finish the project because of his sickness.,He couldn't finish the project because he was sick.
+Clarity Improvement,"In the event of an emergency, use the stairs!","If there's an emergency, use the stairs"
+Clarity Improvement,The book that is on the table is mine!,The book on the table is mine.
+Clarity Improvement,"Due to the fact that it was raining, we stayed inside!","Because it was raining, we stayed inside"
+Clarity Improvement,He was not able to finish the project because of his sickness!,He couldn't finish the project because he was sick!
+Clarity Improvement,"In the event of an emergency, use the stairs.","If there's an emergency, use the stairs!"
+Clarity Improvement,"Due to the fact that it was raining, we stayed inside.","Because it was raining, we stayed inside"
+Clarity Improvement,"In the event of an emergency, use the stairs!","If there's an emergency, use the stairs."
+Clarity Improvement,"At this point in time, we are unsure.",We are currently unsure.
+Clarity Improvement,The book that is on the table is mine.,The book on the table is mine.
+Clarity Improvement,"At this point in time, we are unsure!",We are currently unsure!
+Clarity Improvement,The book that is on the table is mine.,The book on the table is mine!
+Clarity Improvement,"In the event of an emergency, use the stairs","If there's an emergency, use the stairs."
+Clarity Improvement,The book that is on the table is mine,The book on the table is mine!
+Clarity Improvement,"Due to the fact that it was raining, we stayed inside","Because it was raining, we stayed inside"
+Clarity Improvement,"Due to the fact that it was raining, we stayed inside","Because it was raining, we stayed inside!"
+Clarity Improvement,"At this point in time, we are unsure",We are currently unsure
+Clarity Improvement,"Due to the fact that it was raining, we stayed inside.","Because it was raining, we stayed inside."
+Clarity Improvement,He was not able to finish the project because of his sickness,He couldn't finish the project because he was sick.
+Clarity Improvement,"At this point in time, we are unsure!",We are currently unsure
+Clarity Improvement,He was not able to finish the project because of his sickness.,He couldn't finish the project because he was sick
+Clarity Improvement,He was not able to finish the project because of his sickness!,He couldn't finish the project because he was sick
+Clarity Improvement,The book that is on the table is mine.,The book on the table is mine
+Emotional Enrichment,I'm sorry,I truly apologize for what happened!
+Emotional Enrichment,I don't like this.,I'm not really comfortable with this
+Emotional Enrichment,He failed!,"He didn't succeed this time, but he tried hard."
+Emotional Enrichment,We lost the game,"We gave it our all, but unfortunately we lost!"
+Emotional Enrichment,I disagree,I respectfully have a different opinion
+Emotional Enrichment,I'm sorry.,I truly apologize for what happened
+Emotional Enrichment,He failed.,"He didn't succeed this time, but he tried hard"
+Emotional Enrichment,We lost the game!,"We gave it our all, but unfortunately we lost"
+Emotional Enrichment,I disagree.,I respectfully have a different opinion.
+Emotional Enrichment,I'm sorry!,I truly apologize for what happened
+Emotional Enrichment,I don't like this,I'm not really comfortable with this!
+Emotional Enrichment,He failed,"He didn't succeed this time, but he tried hard"
+Emotional Enrichment,We lost the game!,"We gave it our all, but unfortunately we lost."
+Emotional Enrichment,I disagree!,I respectfully have a different opinion.
+Emotional Enrichment,I don't like this.,I'm not really comfortable with this.
+Emotional Enrichment,He failed,"He didn't succeed this time, but he tried hard!"
+Emotional Enrichment,I disagree!,I respectfully have a different opinion
+Emotional Enrichment,He failed!,"He didn't succeed this time, but he tried hard"
+Emotional Enrichment,We lost the game.,"We gave it our all, but unfortunately we lost!"
+Emotional Enrichment,I'm sorry,I truly apologize for what happened
+Emotional Enrichment,I don't like this!,I'm not really comfortable with this!
+Emotional Enrichment,He failed!,"He didn't succeed this time, but he tried hard!"
+Emotional Enrichment,I'm sorry!,I truly apologize for what happened.
+Emotional Enrichment,I don't like this.,I'm not really comfortable with this!
+Emotional Enrichment,I disagree!,I respectfully have a different opinion!
+Emotional Enrichment,I'm sorry.,I truly apologize for what happened.
+Emotional Enrichment,I don't like this!,I'm not really comfortable with this.
+Emotional Enrichment,We lost the game,"We gave it our all, but unfortunately we lost."
+Emotional Enrichment,I disagree.,I respectfully have a different opinion
+Emotional Enrichment,He failed.,"He didn't succeed this time, but he tried hard!"
+Emotional Enrichment,We lost the game.,"We gave it our all, but unfortunately we lost"
+Emotional Enrichment,I don't like this,I'm not really comfortable with this.
+Emotional Enrichment,He failed,"He didn't succeed this time, but he tried hard."
+Emotional Enrichment,We lost the game!,"We gave it our all, but unfortunately we lost!"
+Emotional Enrichment,I'm sorry!,I truly apologize for what happened!
+Emotional Enrichment,I don't like this!,I'm not really comfortable with this
+Emotional Enrichment,He failed.,"He didn't succeed this time, but he tried hard."
+Emotional Enrichment,I'm sorry,I truly apologize for what happened.
+Emotional Enrichment,We lost the game,"We gave it our all, but unfortunately we lost"
+Emotional Enrichment,I disagree,I respectfully have a different opinion.
+Stylistic Variation,The sun set!,The golden orb dipped below the horizon
+Stylistic Variation,He was tired!,Weariness painted shadows beneath his eyes
+Stylistic Variation,She ran fast,She dashed forward with lightning speed
+Stylistic Variation,It was a big house,"It was a grand, sprawling estate."
+Stylistic Variation,The food was good!,The dish was a delightful burst of flavor.
+Stylistic Variation,The sun set!,The golden orb dipped below the horizon.
+Stylistic Variation,He was tired.,Weariness painted shadows beneath his eyes.
+Stylistic Variation,She ran fast,She dashed forward with lightning speed.
+Stylistic Variation,The food was good!,The dish was a delightful burst of flavor
+Stylistic Variation,The sun set.,The golden orb dipped below the horizon!
+Stylistic Variation,He was tired.,Weariness painted shadows beneath his eyes!
+Stylistic Variation,The food was good,The dish was a delightful burst of flavor
+Stylistic Variation,The sun set!,The golden orb dipped below the horizon!
+Stylistic Variation,He was tired.,Weariness painted shadows beneath his eyes
+Stylistic Variation,She ran fast,She dashed forward with lightning speed!
+Stylistic Variation,It was a big house,"It was a grand, sprawling estate"
+Stylistic Variation,The sun set,The golden orb dipped below the horizon
+Stylistic Variation,He was tired!,Weariness painted shadows beneath his eyes!
+Stylistic Variation,It was a big house!,"It was a grand, sprawling estate."
+Stylistic Variation,The food was good!,The dish was a delightful burst of flavor!
+Stylistic Variation,The sun set,The golden orb dipped below the horizon.
+Stylistic Variation,The food was good,The dish was a delightful burst of flavor!
+Stylistic Variation,She ran fast.,She dashed forward with lightning speed
+Stylistic Variation,It was a big house!,"It was a grand, sprawling estate!"
+Stylistic Variation,The food was good,The dish was a delightful burst of flavor.
+Stylistic Variation,The sun set,The golden orb dipped below the horizon!
+Stylistic Variation,He was tired,Weariness painted shadows beneath his eyes!
+Stylistic Variation,It was a big house.,"It was a grand, sprawling estate."
+Stylistic Variation,The sun set.,The golden orb dipped below the horizon
+Stylistic Variation,She ran fast!,She dashed forward with lightning speed.
+Stylistic Variation,It was a big house.,"It was a grand, sprawling estate!"
+Stylistic Variation,The food was good.,The dish was a delightful burst of flavor
+Stylistic Variation,He was tired,Weariness painted shadows beneath his eyes.
+Stylistic Variation,She ran fast!,She dashed forward with lightning speed!
+Stylistic Variation,It was a big house!,"It was a grand, sprawling estate"
+Stylistic Variation,The food was good.,The dish was a delightful burst of flavor.
+Stylistic Variation,It was a big house.,"It was a grand, sprawling estate"
+Stylistic Variation,He was tired,Weariness painted shadows beneath his eyes
+Stylistic Variation,It was a big house,"It was a grand, sprawling estate!"
+Stylistic Variation,The sun set.,The golden orb dipped below the horizon.
+Stylistic Variation,She ran fast.,She dashed forward with lightning speed.
+Stylistic Variation,The food was good.,The dish was a delightful burst of flavor!
